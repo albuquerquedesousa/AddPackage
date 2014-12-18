@@ -1,0 +1,9 @@
+Package: AddPackage
+Version: 1.0
+Date: 2014-12-18
+Title: AddTwo and AddFour
+Author: Georgi Kyosev, Jose Albuquerque de Sousa
+Maintainer: Georgi Kyosev, Jose Albuquerque de Sousa <kyosev@rsm.nl>
+Description: Adds two or four to a number
+Depends: R (>= 3.1.2)
+License: GPL-3

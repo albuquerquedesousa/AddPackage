@@ -1,0 +1,2 @@
+export(AddTwo)
+export(AddFour)
